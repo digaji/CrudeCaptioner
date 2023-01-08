@@ -1,0 +1,4 @@
+Average BLEU-1 Score: 39.037
+Average BLEU-2 Score: 21.205
+Average BLEU-3 Score: 8.012
+Average BLEU-4 Score: 2.777
