@@ -32,3 +32,8 @@ cd dataset
 
 python translator.py
 ```
+
+Play the Jupyter Notebook
+```bash
+main.ipynb
+```
